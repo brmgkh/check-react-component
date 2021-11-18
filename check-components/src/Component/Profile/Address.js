@@ -1,10 +1,11 @@
+
 import react from "react";
-function Adress {
+function Address () {
 return (
     <div>
-    <h2> Pays : Tunisie</h2>
-    <h2> Ville : Manouba</h2>
+    <h1> Pays : Tunisie</h1>
+    <h1> Ville : Manouba</h1>
     </div>
 )
 }
-export default Adress;
+export default Address;

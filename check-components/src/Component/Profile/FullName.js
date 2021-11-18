@@ -1,5 +1,5 @@
 import react from "react";
-function FullName  {
+function FullName ()  {
 return (
     <div>
     <h1> Nom : Maghraoui</h1>
